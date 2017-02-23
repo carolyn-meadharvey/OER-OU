@@ -1,3 +1,6 @@
+## New header
+I'm adding content!
+
 # Case Study 1: Keywords
 
 This lesson combines material from two classes:
